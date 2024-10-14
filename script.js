@@ -1,7 +1,7 @@
 // Задача 1: Переменные и типы данных
 
 const name = "Алла";
-const age = 28;
+const age = 27;
 const city = "Санкт-Петербург";
 
 console.log(name);
@@ -72,7 +72,7 @@ console.log(isNumber1Greater);
 
 const person = {
   name: "Алла",
-  age: 28,
+  age: 27,
   favoriteColor: "синий",
 };
 
